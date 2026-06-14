@@ -1,4 +1,4 @@
-# AI SOC Analyst V2
+# AI junior SOC Analyst 
 
 An AI-powered Security Operations Center (SOC) Analyst platform built using Python, TShark, MITRE ATT&CK mapping, automated incident reporting, and AI-assisted threat triage.
 
